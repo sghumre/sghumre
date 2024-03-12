@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on automation and Ai 
 - 📫 How to reach me sachin.ghumre@gmail.com
 - 😄 Pronouns: Him/His
-- ⚡ Fun fact: I am trying my handson on coding after 15 years.. 
+- ⚡ Fun fact: I am trying my handson on scripting after 15 years.. 
 
 <!---
 sghumre/sghumre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
